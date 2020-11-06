@@ -1,0 +1,2 @@
+# IMDB-data-set-investigation
+IMDb (Internet Movie Database) is one of the most recognized names for its comprehensive online database collection of movies, films, TV series and so on. As of today , you’ll see through the following data pull that IMDb database has approximately 7 million titles. In this article, I will use Python in Jupyter Notebook to demonstrate where to pull the data, how to quickly interpret the data and answer some interesting questions.
